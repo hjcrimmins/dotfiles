@@ -39,3 +39,8 @@
         autoSquash = true
         autoStash = true
         updateRefs = true
+
+# Local overrides 
+
+[include]
+    path = .gitconfig.local
