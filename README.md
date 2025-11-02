@@ -39,7 +39,7 @@ git pull
 git add . && git commit -m "update" && git push
 ```
 
-### Removeing symlinks
+### Removing symlinks
 ```
 stow -D bash
 ```
@@ -58,5 +58,6 @@ Several of the main config sources support per-host overrides:
 | Zsh      | `~/.zshrc.local`    |
 | Vim      | `~/.vimrc.local`    |
 | Tmux     | `~/.tmux.conf.local`|
+
 The update files are not tracked by Git.
 
