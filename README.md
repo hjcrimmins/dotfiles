@@ -9,7 +9,6 @@ Each folder (e.g. `bash`, `zsh`, `vim`, `tmux`) is a Stow package that symlinks 
 
 ### 1. Install dependencies
 ```
-bash
 # macOS
 brew install stow
 
