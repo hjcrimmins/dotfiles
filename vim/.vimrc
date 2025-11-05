@@ -1,4 +1,10 @@
 " ------------------------
+" Documentation 
+" ------------------------
+
+" https://github.com/romainl/idiomatic-vimrc
+
+" ------------------------
 " Basic Settings
 " ------------------------
 
