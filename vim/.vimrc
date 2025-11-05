@@ -4,13 +4,16 @@
 
 " Enable syntax highlighting
 syntax on 
-
-" ------------------------
-" Line Numbers 
-" ------------------------
-
 " Show absolute line numbers
 set number
+" Incremental search, hit `<CR>` to stop.
+set incsearch
+" Shows the current line number at the bottom-right of the screen.
+set ruler
+" Intuitive backspace behavior.
+set backspace=indent,eol,start 
+" Command-line completion
+set wildmenu
 
 " -----------------------------
 " Indentation and Tabs
